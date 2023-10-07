@@ -5,9 +5,7 @@ This is a simple drum machine project inspired by FreeCodeCamp. It allows you to
 ## Table of Contents
 - [Demo](#demo)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Demo
